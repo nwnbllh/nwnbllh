@@ -24,9 +24,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="AI" width="30px" src="https://www.dolphincomputer.co.in/wp-content/uploads/2020/09/ai.jpg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Photoshop" width="70px" src="https://thumbs.dreamstime.com/b/adobe-photoshop-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-ai-adobe-photoshop-logo-editorial-208329081.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Corel" width="30px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="60px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="40px" src="https://logowik.com/content/uploads/images/figma.jpg" style="padding-right:0px;" />][webdev]
 
 <br />
