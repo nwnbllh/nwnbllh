@@ -1,6 +1,6 @@
-# Hi there, I'm   Najwa - aka [nwnbllh](https://www.instagram.com/nwnbllh/) 👋
+# Hi there, I'm   Najwa - aka [awa](https://www.instagram.com/nwnbllh/) 👋
 ## About me:
-- 🔭 I’m currently working as freelance Graphic Design
+- 🚀 I’m currently working as freelance Graphic Design
 - 🌱 I’m currently learning Adobe Illustration, Adobe Photoshop, and Figma
 - 💬 Ask me about anything
 - 📫 How to reach me: najwanabilah2216@gmail.com
