@@ -1,4 +1,4 @@
-# Hi there, I'm   Najwa - aka [awa](https://www.instagram.com/nwnbllh/) 👋
+# Hi !! I'am Najwa Nabilah👋
 ## About me:
 - 🚀 I’m currently working as freelance Graphic Design
 - 🌱 I’m currently learning Adobe Illustration, Adobe Photoshop, and Figma
