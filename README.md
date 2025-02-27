@@ -23,8 +23,8 @@
 
 ### Software and Tools:
 
-[<img align="left" alt="AI" width="30px" src="https://www.dolphincomputer.co.in/wp-content/uploads/2020/09/ai.jpg" style="padding-right:10px;" />]
-[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="AI" width="30px" src="https://www.dolphincomputer.co.in/wp-content/uploads/2020/09/ai.jpg"/>]
+[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/>]
 [<img align="left" alt="Figma" width="40px" src="https://logowik.com/content/uploads/images/figma.jpg" />]
 
 
