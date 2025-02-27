@@ -23,10 +23,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="AI" width="30px" src="https://www.dolphincomputer.co.in/wp-content/uploads/2020/09/ai.jpg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Corel" width="30px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Figma" width="40px" src="https://logowik.com/content/uploads/images/figma.jpg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="AI" width="30px" src="https://www.dolphincomputer.co.in/wp-content/uploads/2020/09/ai.jpg" style="padding-right:10px;" />]
+[<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="Figma" width="40px" src="https://logowik.com/content/uploads/images/figma.jpg" style="padding-right:0px;" />]
 
 <br />
 <br />
@@ -34,14 +33,14 @@
 ---
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/aquawaesthetic#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/aquawaesthetic#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/aquawaesthetic)
+[![website](./img/twitter-dark.svg)](https://twitter.com/aquawaesthetic)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nwnbllh#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nwnbllh#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nwnbllh)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nwnbllh)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nwnbllh#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nwnbllh#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/nwnbllh)
+[![website](./img/instagram-dark.svg)](https://instagram.com/nwnbllh)
 
 
 
